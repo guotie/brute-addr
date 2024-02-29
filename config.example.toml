@@ -1,0 +1,4 @@
+words = ""
+head = true
+expect_addr = ""
+addr_type = "p2wpkh"
